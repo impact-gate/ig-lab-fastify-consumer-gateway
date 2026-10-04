@@ -1,0 +1,7 @@
+{
+  "name": "ig-lab-fastify-consumer-gateway",
+  "version": "1.0.0",
+  "description": "Fastify Gateway Consumer (Node.js)",
+  "main": "src/index.ts",
+  "type": "module"
+}
